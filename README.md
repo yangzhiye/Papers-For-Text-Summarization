@@ -1,4 +1,4 @@
-# Papers-For-Graduation-project
+# Papers-For-Graduation-Project
 
 ## 论文调研
 
@@ -26,7 +26,7 @@
 
 ### 评价指标
 
-#### 1.ROUGE(ROUGE.py) [论文地址](http://www.aclweb.org/anthology/W04-1013)
+#### 1. ROUGE: A Package for Automatic Evaluation of Summaries [论文地址](http://www.aclweb.org/anthology/W04-1013)
 
 1. 一种自动评价摘要的方法，包括ROUGE-N、ROUGE-L、ROUGE-W、ROUGE-S、SOUGE-SU。
 
