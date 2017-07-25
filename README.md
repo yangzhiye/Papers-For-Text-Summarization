@@ -23,4 +23,11 @@
 1. 使用Textrank方法提取文本中关键词/句
 
 * 使用Textrank提取摘要是很常见的方法，在[NLPCC2017-task3新闻数据集](https://github.com/yangzhiye/NLPCC2017-task3)上实现了，但效果不如tfidf，目测IDF立功。
-  
+
+### 评价指标
+
+#### 1.ROUGE(ROUGE.py) [论文地址](http://www.aclweb.org/anthology/W04-1013)
+
+1. 一种自动评价摘要的方法，包括ROUGE-N、ROUGE-L、ROUGE-W、ROUGE-S、SOUGE-SU。
+
+* 目前最权威的自动摘要评价方法，网上给出的英文版居多。[我实现过中文版的部分ROUGE](https://github.com/yangzhiye/NLPCC2017-task3/blob/master/ROUGE.py)，但并不权威。
